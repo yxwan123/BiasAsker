@@ -1,0 +1,11 @@
+pytorch with cuda 11.3
+transformers
+sklearn
+tqdm
+matplotlib
+spacy
+seaborn
+syllapy
+openai
+tencentcloud-sdk-python
+tencentcloud-sdk-python-nlp
