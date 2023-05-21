@@ -18,10 +18,10 @@ Powered by advanced Artificial Intelligence (AI) techniques, conversational AI s
 
 **Contents**
 
-- [Environment Setup](#Environment Setup)
-- [Test chatbots in the paper](#Testing Chatbots)
+- [Environment Setup](#Environment-Setup)
+- [Test chatbots in the paper](#Testing-Chatbots)
 - [Utilities](#Utilities)
-- [Test your own chatbot with BiasAsker](#Test your own chatbot)
+- [Test your own chatbot with BiasAsker](#Test-your-own-chatbot)
 
 ----
 
