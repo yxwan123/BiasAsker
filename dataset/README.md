@@ -5,3 +5,4 @@
 - antonym_translate.csv: the Chinese translation of antonyms in antonym_annotation.csv
 - groups.csv: all social groups and their categories
 - groups_translate.csv: the Chinese translation of groups.csv
+All Chinese characters are encoded in `utf-8` format.
