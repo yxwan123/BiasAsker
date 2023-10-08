@@ -11,7 +11,7 @@ Powered by advanced Artificial Intelligence (AI) techniques, conversational AI s
 **This repository contains:**
 
 1. **Code implementation of BiasAsker**, i.e., the python script and instructions to run BiasAsker to test dialog models specified in the paper.
-2. **Sample dataset**, i.e., the sample of our annotated social group and social bias property dataset which we used in our experiment (with and without API). The sample dataset are in `/data`. We will release the entire dataset once the paper is published.
+2. **Complete dataset**. The sample of our annotated social group and social bias property dataset which we used in our experiment (with and without API) are in `/data`. The complete datasets are in `\dataset`.
 3. **Complete bias association visualization of all chatbot under test.** In `/figs/all_results.zip`, we provide all the visualization results of chatbot under test, including group comparisons for absolute biases and bias association for relative biases.
 
 ----
